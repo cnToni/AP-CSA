@@ -7,14 +7,16 @@ Welcome to learn APCSA, it's a good lesson for those new to CS. It's an intro to
 
 What you will learn in APCSA course:
 
-1. Primitive & Object type;
+1. Basic grammar in java;
 
-2. Integer, double, boolean variable;
+2. Primitive & Object type;
 
-3. Array & ArrayList;
+3. Integer, double, boolean variable;
 
-4. Class;
+4. Array & ArrayList;
 
-5. Recursion;
+5. Class;
+
+6. Recursion;
 
 
